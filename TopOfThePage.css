@@ -1,0 +1,38 @@
+.TopOfThePage {background-color:#F59A23; 
+               padding-top: 24px; 
+               padding-bottom: 64px; 
+               border-radius: 20px;}
+
+.Top{float:left;  
+    color:white; height:20px; 
+    font-family:'Arial Bold', 'Arial', sans-serif; 
+    font-weight: 700;}
+
+.CompanyName {font-size: 30px; 
+              padding-right:32px; 
+              padding-left:20px; 
+              padding-top: 2px;
+              color:white;
+              text-decoration:none;}
+
+.CompanyNameLink {text-decoration:none;
+                 color:white;}
+             
+.Search {padding-top: 14px; 
+         padding-bottom: 10px; 
+         padding-right:733px; 
+         background-color: whitesmoke; 
+         color:rgb(170, 170, 170); 
+         font-size:13px; 
+         font-family: Arial, sans-serif;}
+
+.Account{padding-left:43px; 
+         padding-right:75px; 
+         padding-top:10px; 
+         font-size: 20px;}
+
+.Cart {font-size:37px; 
+       color:black;}
+
+.CartLink {text-decoration:none;
+    color:black;}

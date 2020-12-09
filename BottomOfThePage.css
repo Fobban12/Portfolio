@@ -1,0 +1,17 @@
+.BottomOfThePage {background-color:#F59A23; 
+    position: relative;
+    top:-360;
+    padding-top: 24px; 
+    padding-bottom: 26px; 
+    border-radius: 20px;
+    font-size: 20px;
+    color:white;
+    font-family: 'Arial Bold', 'Arial', sans-serif;
+    font-weight: 700;}
+
+    .Support {float:left; 
+    padding-left: 871px;
+    padding-right: 106px;
+    padding-top: 6px;}
+    
+.Contact {padding-top:6px;}
